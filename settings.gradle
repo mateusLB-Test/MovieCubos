@@ -1,0 +1,2 @@
+include ':app', ':data_remote', ':domain', ':data', ':base_feature', ':feature_movie'
+rootProject.name='Movie Cubos'

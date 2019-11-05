@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">base_feature</string>
+    <string name="cancel">No</string>
+    <string name="ok">Yes</string>
+    <string name="error_title">Oops, something went wrong</string>
+    <string name="error_description">%1$s. Try again?</string>
+</resources>
